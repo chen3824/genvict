@@ -35,26 +35,26 @@ AI 共创 = **一套端到端流水线（机会→落地→沉淀） + 一个持
 
 ## 三、Stage Gate 体系
 
-| Gate | 核心问题 | 主要验证 |
-|---|---|---|
-| Gate 0 | 值不值得做？ | 业务价值 |
-| Gate 1 | AI 能不能做？ | POC |
-| Gate 2 | 能不能使用？ | MVP |
+| Gate   | 核心问题     | 主要验证  |
+| ------ | -------- | ----- |
+| Gate 0 | 值不值得做？   | 业务价值  |
+| Gate 1 | AI 能不能做？ | POC   |
+| Gate 2 | 能不能使用？   | MVP   |
 | Gate 3 | 有没有业务价值？ | Pilot |
-| Gate 4 | 值不值得推广？ | Scale |
+| Gate 4 | 值不值得推广？  | Scale |
 | Gate 5 | 能不能沉淀复制？ | Asset |
 
 ## 四、核心管理对象 ↔ 流程产出
 
 岗位视角的 5 类长期管理对象与流水线产出一一对应：
 
-| 管理对象 | 对应流程产出 |
-|---|---|
-| AI Opportunity Pool | 01 收集的机会池 |
-| AI Scenario Map | 02/03 产出的 Scenario Card 与优先级 |
-| AI Project Portfolio | POC→Scale 各阶段在推项目 |
-| AI Value Dashboard | Pilot/Adoption 效果衡量的价值数据 |
-| AI Asset Library | 09 沉淀的能力资产库 |
+| 管理对象                 | 对应流程产出                       |
+| -------------------- | ---------------------------- |
+| AI Opportunity Pool  | 01 收集的机会池                    |
+| AI Scenario Map      | 02/03 产出的 Scenario Card 与优先级 |
+| AI Project Portfolio | POC→Scale 各阶段在推项目            |
+| AI Value Dashboard   | Pilot/Adoption 效果衡量的价值数据     |
+| AI Asset Library     | 09 沉淀的能力资产库                  |
 
 ## 五、运营节奏
 
