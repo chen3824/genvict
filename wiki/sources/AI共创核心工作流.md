@@ -2,14 +2,14 @@
 title: AI共创核心工作流（来源摘要）
 type: source
 tags: [AI共创, 工作流, POC, MVP, Pilot, Adoption, Scale, Stage Gate]
-sources: [AI共创核心工作流.md]
+sources: [AI共创/AI共创工作流与工作重点 V1.0.md]
 created: 2026-08-13
-updated: 2026-08-13
+updated: 2026-08-17
 ---
 
 # AI共创核心工作流 — 来源摘要
 
-> 本页是 `raw/AI共创核心工作流.md` 的摘要页。原件不可修改，一切主张以原件为准。
+> 本页是 `raw/AI共创/AI共创工作流与工作重点 V1.0.md` 的摘要页（文件在 2026-08-17 重组中从旧名更名而来）。原件不可修改，一切主张以原件为准。
 
 ## 这份来源讲什么
 
