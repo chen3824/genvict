@@ -162,23 +162,23 @@ AI共创不是单纯的AI产品经理、AI运营、FDE或AI工具推广人员，
 
 > 本文档中出现的英文名词/缩写的含义说明。
 
-| 名词/缩写 | 全称 | 含义 |
-|-----------|------|------|
-| AI | Artificial Intelligence | 人工智能 |
-| FDE | Forward Deployed Engineer | 前沿部署工程师：驻场贴近业务/客户、负责AI能力落地的工程师 |
-| LLM | Large Language Model | 大语言模型，如 GPT、DeepSeek 等 |
-| Agent | — | 智能体：能自主规划、调用工具完成任务闭环的 AI 单元 |
-| RAG | Retrieval-Augmented Generation | 检索增强生成：先检索资料再生成回答，减少幻觉 |
-| Workflow | — | 工作流：将多步骤任务编排成固定流程 |
-| MCP | Model Context Protocol | 模型上下文协议：AI 与外部系统/工具连接的统一标准 |
-| AI Champion | — | AI 倡导者：业务侧推动 AI 落地与使用的种子用户 |
-| IT | Information Technology | 信息技术：企业内部的技术支持/信息化部门 |
-| Prompt | — | 提示词：指导 AI 完成任务的输入指令 |
-| Knowledge Base | — | 知识库：组织化的知识沉淀与检索库 |
-| SOP | Standard Operating Procedure | 标准操作规程 / 标准化作业流程 |
-| Case Study | — | 案例研究：对成功/失败案例的复盘总结 |
-| POC | Proof of Concept | 概念验证：小范围论证某方案是否可行 |
-| MVP | Minimum Viable Product | 最小可行产品：以最小成本验证价值的产品形态 |
-| Pilot | — | 试点：正式推广前的小范围试运行 |
-| Adoption | — | 采用：业务员工对新系统/工具实际使用与接受 |
-| Owner | — | 负责人：对某项工作负最终责任的角色 |
+| 名词/缩写          | 全称                             | 含义                             |
+| -------------- | ------------------------------ | ------------------------------ |
+| AI             | Artificial Intelligence        | 人工智能                           |
+| FDE            | Forward Deployed Engineer      | 前沿部署工程师：驻场贴近业务/客户、负责AI能力落地的工程师 |
+| LLM            | Large Language Model           | 大语言模型，如 GPT、DeepSeek 等         |
+| Agent          | —                              | 智能体：能自主规划、调用工具完成任务闭环的 AI 单元    |
+| RAG            | Retrieval-Augmented Generation | 检索增强生成：先检索资料再生成回答，减少幻觉         |
+| Workflow       | —                              | 工作流：将多步骤任务编排成固定流程              |
+| MCP            | Model Context Protocol         | 模型上下文协议：AI 与外部系统/工具连接的统一标准     |
+| AI Champion    | —                              | AI 倡导者：业务侧推动 AI 落地与使用的种子用户     |
+| IT             | Information Technology         | 信息技术：企业内部的技术支持/信息化部门           |
+| Prompt         | —                              | 提示词：指导 AI 完成任务的输入指令            |
+| Knowledge Base | —                              | 知识库：组织化的知识沉淀与检索库               |
+| SOP            | Standard Operating Procedure   | 标准操作规程 / 标准化作业流程               |
+| Case Study     | —                              | 案例研究：对成功/失败案例的复盘总结             |
+| POC            | Proof of Concept               | 概念验证：小范围论证某方案是否可行              |
+| MVP            | Minimum Viable Product         | 最小可行产品：以最小成本验证价值的产品形态          |
+| Pilot          | —                              | 试点：正式推广前的小范围试运行                |
+| Adoption       | —                              | 采用：业务员工对新系统/工具实际使用与接受          |
+| Owner          | —                              | 负责人：对某项工作负最终责任的角色              |
