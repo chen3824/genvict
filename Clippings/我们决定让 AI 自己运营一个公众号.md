@@ -38,9 +38,9 @@ AI探索者 AI搞事儿 *2026年8月24日 12:01*
 
 场景发现：来源于AI共创小组赵大萌同学的交流时的想法：“怎么让公司落地的真实案例记录下来让更多的人看到？”
 
-## 我们给 AI 配置了什么
+## 我们使用AI 做了什么
 
-一套完整的公众号内容生产工具链，共 5 个 Skill：
+配置了一套完整的公众号内容生产工具链，共 5 个 Skill：
 
 | Skill | 干什么 |
 | --- | --- |
@@ -49,7 +49,7 @@ AI探索者 AI搞事儿 *2026年8月24日 12:01*
 | article-illustrator | 生成正文插图 |
 | post-to-wechat | 排版并 API 发布 |
 | image-gen | 图片生成后端（gpt-image-2） |
-
+## 最终期望做成什么样子
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/3AzxEqHPwRtssKyaLyaTcylKCJclg9zJPUibIT5iacicunEvM21xzOtCPib8EeoW3LxzBEcATsfZyXNQVpGR1gwwOEgdic0ic5LQ925iayeSCfMib1k/640?from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1)
 
 > AI 负责把事做出来，人负责把事情做对。
