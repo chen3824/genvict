@@ -73,14 +73,16 @@ tags:
 ![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/3AzxEqHPwRuqEia4fWqrHwyf2uQcLiavvm4GE3kGGbNs8QVLzjSib4gOJrzQ3LjDxibCdBlEEBPA8cj0nZjdiaBmSUO0j9eibI2G0UnZQkHBflib1Y/640?from=appmsg&watermark=1#imgIndex=2)
 
 
-## 最后
+## [^11] 最后
 
-本期实验到这里结束。
+本期实验到这里结束~
+
 以后，我们会把每一次真实的AI实践留下来。
 做成了，记录。
 做砸了，也记录。
 好玩的，记录。
 真正产生价值的，更要记录。
+
 如果你工作里也有一件：特别烦、特别重复、特别想甩给AI的事情，欢迎来找我们。
 
 ---
@@ -106,3 +108,5 @@ tags:
 [^9]: 后续固定成这个标题
 
 [^10]: 后续固定成这个标题
+
+[^11]: 标题和内容都固定
