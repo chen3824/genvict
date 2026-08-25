@@ -37,17 +37,17 @@ tags:
 ### [^5]场景发现：
 来源于AI共创小组大萌同学交流时的想法：“你说怎样让公司落地的真实案例记录下来让更多的人看到？”
 
-### 我们期望做成什么样子
+### [^6]我们期望做成什么样子
 > AI 负责把事做出来，人负责把事情做对。
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/3AzxEqHPwRtssKyaLyaTcylKCJclg9zJPUibIT5iacicunEvM21xzOtCPib8EeoW3LxzBEcATsfZyXNQVpGR1gwwOEgdic0ic5LQ925iayeSCfMib1k/640?from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1)
 
 
-### AI 现在能做什么
+### [^7]AI 现在能做什么
 
 实测两轮，AI 能稳定完成：文章格式化、封面生成、正文插图、微信排版、API 发布。过程 AI 独立完成，人工不干预内容。
 
-### AI 目前不会做什么
+### [^8]AI 目前不会做什么
 
 - • 不会采访——只能基于已有素材工作
 - • 不会判断事实真伪
@@ -55,13 +55,13 @@ tags:
 - • 不会最终发布
 - • 封面文字渲染不稳定
 
-### 第一轮遇到的问题
+### [^9]遇到的问题
 
 如实记录：Windows 兼容性 bug、发布脚本 npx 通道问题、API key 给错过、并发图片生成崩溃、封面风格跑偏一次。
 
 都不是大事，但很真实。 **这个差距，正是实验最有价值的部分。**
 
-### 哪些环节仍然需要人
+### [^10]哪些环节仍然需要人
 
 | 环节 | 谁负责 |
 | --- | --- |
@@ -72,17 +72,6 @@ tags:
 
 ![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/3AzxEqHPwRuqEia4fWqrHwyf2uQcLiavvm4GE3kGGbNs8QVLzjSib4gOJrzQ3LjDxibCdBlEEBPA8cj0nZjdiaBmSUO0j9eibI2G0UnZQkHBflib1Y/640?from=appmsg&watermark=1#imgIndex=2)
 
-## 接下来 7 天怎么测试
-
-| 天数 | 任务 |
-| --- | --- |
-| Day 1-3 | 素材整理、采访、选题、写作、配图 |
-| Day 4 | 人工审核 |
-| Day 5 | 人工发布、内部传播 |
-| Day 6 | 收集数据 |
-| Day 7 | AI 复盘，提出改进建议 |
-
-7 天后只看四个问题：AI 独立完成了多少？哪些环节做不了？人工投入多少时间？下一版 Skill 改什么？
 
 ## 最后
 
@@ -104,6 +93,16 @@ tags:
 
 [^3]: 同理，只在这一篇文章保留，意在介绍这个公众号的作用
 
-[^4]: 格式以本期内容--xxxx,对应内容四大栏目分类
+[^4]: 格式以本期内容--xxxx,xxxx对应内容四大栏目分类
 
-[^5]: 固定为场景发现
+[^5]: 后续固定成这个标题
+
+[^6]: 后续固定成这个标题
+
+[^7]: 后续固定成这个标题
+
+[^8]: 后续固定成这个标题
+
+[^9]: 后续固定成这个标题
+
+[^10]: 后续固定成这个标题
