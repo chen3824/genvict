@@ -37,42 +37,31 @@ tags:
 ### [^5]场景发现：
 来源于AI共创小组大萌同学交流时的想法：“你说怎样让公司落地的真实案例记录下来让更多的人看到？”
 
-### 我们使用AI期望做成什么样子
-
-配置了一套完整的公众号内容生产工具链，共 5 个 Skill：
-
-| Skill | 干什么 |
-| --- | --- |
-| format-markdown | 整理结构化 Markdown |
-| cover-image | 生成公众号封面 |
-| article-illustrator | 生成正文插图 |
-| post-to-wechat | 排版并 API 发布 |
-| image-gen | 图片生成后端（gpt-image-2） |
-## 最终
-![图片](https://mmbiz.qpic.cn/mmbiz_png/3AzxEqHPwRtssKyaLyaTcylKCJclg9zJPUibIT5iacicunEvM21xzOtCPib8EeoW3LxzBEcATsfZyXNQVpGR1gwwOEgdic0ic5LQ925iayeSCfMib1k/640?from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1)
-
+### 我们期望做成什么样子
 > AI 负责把事做出来，人负责把事情做对。
 
-## AI 现在能做什么
+![图片](https://mmbiz.qpic.cn/mmbiz_png/3AzxEqHPwRtssKyaLyaTcylKCJclg9zJPUibIT5iacicunEvM21xzOtCPib8EeoW3LxzBEcATsfZyXNQVpGR1gwwOEgdic0ic5LQ925iayeSCfMib1k/640?from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1)
+
+
+### AI 现在能做什么
 
 实测两轮，AI 能稳定完成：文章格式化、封面生成、正文插图、微信排版、API 发布。过程 AI 独立完成，人工不干预内容。
 
-## AI 目前不会做什么
+### AI 目前不会做什么
 
 - • 不会采访——只能基于已有素材工作
 - • 不会判断事实真伪
 - • 不识别敏感信息
 - • 不会最终发布
 - • 封面文字渲染不稳定
-- 
 
-## 第一轮遇到的问题
+### 第一轮遇到的问题
 
 如实记录：Windows 兼容性 bug、发布脚本 npx 通道问题、API key 给错过、并发图片生成崩溃、封面风格跑偏一次。
 
 都不是大事，但很真实。 **这个差距，正是实验最有价值的部分。**
 
-## 哪些环节仍然需要人
+### 哪些环节仍然需要人
 
 | 环节 | 谁负责 |
 | --- | --- |
