@@ -24,19 +24,20 @@ tags:
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/3AzxEqHPwRs2nbf6shbwxUtYR6fQa9GfAYwtGsTyCKrhqZvn6mRE5AcFIWEqFRkciaWAORxavkicZyn0WfJlUOrCydMlrLqiaw6uiahSIOYevSg/640?from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
 
-内容围绕五大栏目：
+内容围绕四大栏目：
 
 - • **搞事现场** ：真实案例
 - • **搞事的人** ：AI 玩家故事
 - • **搞砸了** ：失败复盘
 - • **AI 怎么干** ：方法与过程
 
-## 真实案例
+## [^4]本期内容--真实案例
 这篇文章本身就是一次真实实验。我们把“AI 搞事儿”交给 AI 自己运营
 
-场景发现：来源于AI共创小组大萌同学的交流时的想法：“怎么让公司落地的真实案例记录下来让更多的人看到？”
+### [^5]场景发现：
+来源于AI共创小组大萌同学交流时的想法：“你说怎样让公司落地的真实案例记录下来让更多的人看到？”
 
-## 我们使用AI 做了什么
+### 我们使用AI期望做成什么样子
 
 配置了一套完整的公众号内容生产工具链，共 5 个 Skill：
 
@@ -47,7 +48,7 @@ tags:
 | article-illustrator | 生成正文插图 |
 | post-to-wechat | 排版并 API 发布 |
 | image-gen | 图片生成后端（gpt-image-2） |
-## 最终期望做成什么样子
+## 最终
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/3AzxEqHPwRtssKyaLyaTcylKCJclg9zJPUibIT5iacicunEvM21xzOtCPib8EeoW3LxzBEcATsfZyXNQVpGR1gwwOEgdic0ic5LQ925iayeSCfMib1k/640?from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1)
 
 > AI 负责把事做出来，人负责把事情做对。
@@ -113,3 +114,7 @@ tags:
 [^2]: 只在这一篇文章保留，意在介绍这个公众号的作用
 
 [^3]: 同理，只在这一篇文章保留，意在介绍这个公众号的作用
+
+[^4]: 格式以本期内容--xxxx,对应内容四大栏目分类
+
+[^5]: 固定为场景发现
