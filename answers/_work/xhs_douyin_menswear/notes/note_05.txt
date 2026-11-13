@@ -1,0 +1,181 @@
+@vom 1
+@view 1002x552
+@layers 2 focus=L1
+L1 mask cover=100%
+  group
+    @e382 button "item 9"
+    @e383 button "item 0"
+    @e384 button "item 1"
+    @e385 button "item 2"
+    @e386 button "item 3"
+    @e387 button "item 4"
+    @e388 button "item 5"
+    @e389 button "item 6"
+    @e390 button "item 7"
+    @e391 button "item 8"
+    @e392 button "item 9"
+    @e393 button "item 0"
+  StaticText "1/10"
+  @e394 button "1/10"
+  group
+    @e395 link
+    @e396 link "无聊鸭锁骨"
+  @e397 button "关注"
+  heading "去年给男友挖掘到的性价比男装店铺第二弹！"
+    StaticText "去年给男友挖掘到的性价比男装店铺第二弹！"
+  @e398 link "#你关注的宝藏店铺又争气了"
+  @e399 link "#男装店铺"
+  @e400 link "#平价但不廉价"
+  @e401 link "#神仙店铺"
+  @e402 link "#宝藏店铺分享"
+  @e403 link "#小众男装品牌看我的"
+  @e404 link "#分享店铺"
+  @e405 link "#夏季男生穿搭"
+  @e406 link "#男装"
+  @e407 link "#男友穿搭"
+  StaticText "我又来啦！ 不过性价比这种事情是仁者见仁的，每个人要求不一样，只是自己拙见哈"
+  StaticText "声明一下：无广无广，只是断更半年了，还没弄好素材，就想着先跟大家分享下自己买过的，觉得还不错的店铺，后面开始分享断更期间我买的衣服！"
+  @e408 button "猜你想搜 cleanfit男店铺" [ctx: 去年给男友挖掘到的性价比男装店铺第二弹！ 我又来啦！ 不过性价比这种事情是仁者见仁的，每个人要求不一样，只是自己拙见哈 声明一下：无广无广，只是断更半年了，还没弄好素材，就想着先跟大家分享下自己买过的，觉得还不错的店铺，后面开始分享断更期间我买的衣服！ 猜你想搜 cleanfit男店铺 06-30]
+  StaticText "06-30"
+  @e409 button "more" [ctx: 06-30]
+  StaticText "共 17 条评论"
+  @e410 link "User hover guide" [ctx: 文艺男的质感很差，怎么推的出来 09-18 上海 10 6]
+  group
+    @e411 link "鹿桑的Mango"
+    @e412 button "more"
+  StaticText "文艺男的质感很差，怎么推的出来"
+  StaticText "09-18"
+  StaticText "上海"
+  group
+    @e413 button "10"
+    @e414 button "6" [ctx: 10]
+  @e415 link "User hover guide" [ctx: 回复 雾隙碎光 : 也不是很便宜，七八十块钱，你在优衣库也可以买到嗯，质量还不错的衬衫呀 ，这种属于买完穿几次就扔了，不是很划算 09-25 上海 赞 回复]
+  group
+    @e416 link "鹿桑的Mango"
+    @e417 button "more"
+  StaticText "回复"
+  StaticText "雾隙碎光"
+  StaticText ":"
+  StaticText "也不是很便宜，七八十块钱，你在优衣库也可以买到嗯，质量还不错的衬衫呀"
+  StaticText "，这种属于买完穿几次就扔了，不是很划算"
+  StaticText "09-25"
+  StaticText "上海"
+  group
+    @e418 button "赞"
+    @e419 button "回复" [ctx: 赞]
+  @e420 button "展开 5 条回复"
+  @e421 link
+  group
+    @e422 link "唯有暴富可解我忧"
+    @e423 button "more"
+  StaticText "我对象跟你对象身高体重差不多，跟着你买过几套衣服和鞋子，都很好看，男朋友同事天天夸他变帅了"
+  StaticText "07-05"
+  StaticText "福建"
+  group
+    @e424 button "4"
+    @e425 button "1" [ctx: 4]
+  @e426 link "User hover guide" [ctx: 作者 哇！感觉自己做的事情更有意义啦 ，突然觉得我应该出男朋友改造系列 07-06 上海 3 回复]
+  group
+    @e427 link "无聊鸭锁骨" [ctx: 作者]
+    StaticText "作者"
+    @e428 button "作者"
+  StaticText "哇！感觉自己做的事情更有意义啦"
+  StaticText "，突然觉得我应该出男朋友改造系列"
+  StaticText "07-06"
+  StaticText "上海"
+  group
+    @e429 button "3"
+    @e430 button "回复" [ctx: 3]
+  @e431 link
+  group
+    @e432 link "冇冇冇"
+    @e433 button "more"
+  StaticText "SKASEE小卡西也不错"
+  StaticText "[嘻嘻R]"
+  StaticText "06-30"
+  StaticText "甘肃"
+  group
+    @e434 button "4"
+    @e435 button "2" [ctx: 4]
+  @e436 link "User hover guide" [ctx: 作者 收藏，现在就去下单买来看看 06-30 上海 4 回复]
+  group
+    @e437 link "无聊鸭锁骨" [ctx: 作者]
+    StaticText "作者"
+    @e438 button "作者"
+  StaticText "收藏，现在就去下单买来看看"
+  StaticText "06-30"
+  StaticText "上海"
+  group
+    @e439 button "4"
+    @e440 button "回复" [ctx: 4]
+  @e441 button "展开 1 条回复"
+  @e442 link
+  group
+    @e443 link "是表哥吗？"
+    @e444 button "more"
+  StaticText "主包有没有就是搭配合集呀 不想单看裤子或者上衣的 想直接抄作业"
+  StaticText "08-28"
+  StaticText "江苏"
+  group
+    @e445 button "2"
+    @e446 button "1" [ctx: 2]
+  @e447 link "User hover guide" [ctx: 作者 整套的咩 08-28 上海 2 回复]
+  group
+    @e448 link "无聊鸭锁骨" [ctx: 作者]
+    StaticText "作者"
+    @e449 button "作者"
+  StaticText "整套的咩"
+  StaticText "08-28"
+  StaticText "上海"
+  group
+    @e450 button "2"
+    @e451 button "回复" [ctx: 2]
+  @e452 link
+  group
+    @e453 link "没头脑和不高兴"
+    @e454 button "more"
+  StaticText "不会搭配"
+  img
+  StaticText "07-24"
+  StaticText "北京"
+  group
+    @e455 button "赞"
+    @e456 button "1" [ctx: 赞]
+  @e457 link "User hover guide" [ctx: 作者 参考我的 07-24 上海 1 回复]
+  group
+    @e458 link "无聊鸭锁骨" [ctx: 作者]
+    StaticText "作者"
+    @e459 button "作者"
+  StaticText "参考我的"
+  StaticText "07-24"
+  StaticText "上海"
+  group
+    @e460 button "1"
+    @e461 button "回复" [ctx: 1]
+  @e462 link
+  group
+    @e463 link "胖了没有衣服穿"
+    @e464 button "more"
+  StaticText "07-06"
+  StaticText "安徽"
+  group
+    @e465 button "1"
+    @e466 button "回复" [ctx: 1]
+  StaticText "- THE END -"
+  group
+    @e467 textbox "评论" [empty]
+    @e468 button "评论"
+  group
+    @e469 button "1168"
+    @e470 button "1101"
+    @e471 button "17"
+  @e472 button "share forward"
+  group
+    @e473 button "mention pc b"
+    @e474 button "emoji"
+  group
+    @e475 button "发送" [disabled]
+    @e476 button "取消"
+  @e477 button "1/10 去年给男友挖掘到的性价比男装店铺第二弹！ 我又来啦！ 不过性价比这种事情是仁者见仁的，每个人要求不一样，只是自己拙见哈 声明一下：无广无广，只是断更半年了，还没弄好素材，就想着先跟大家分享下自己买过的，觉得还不错的店铺，后面开始分享断更期间我买的衣服！ 猜你想搜 cleanfit男店铺 06-30 共 17 条评论 文艺男的质感很差，怎么推的出来 09-18 上海 10 6 : 回复 雾隙碎光 也不是很便宜，七八十块钱，你在优衣库也可以买到嗯，质量还不错的衬衫呀 ，"
+L2 page … occluded by L1 (~594 nodes, not actionable)
+@warning geometry incomplete: some page or frame content has no top-level coordinates.

@@ -1,0 +1,180 @@
+@vom 1
+@view 1002x554
+@layers 2 focus=L1
+L1 mask cover=100%
+  img
+  group
+    @e589 button "item 3"
+    @e590 button "item 0"
+    @e591 button "item 1"
+    @e592 button "item 2"
+    @e593 button "item 3"
+    @e594 button "item 0"
+  StaticText "1/4"
+  @e595 button "1/4"
+  group
+    @e596 link
+    @e597 link "服装周数居"
+  @e598 button "关注"
+  heading "10月抖音男装店铺销售额榜单"
+    StaticText "10月抖音男装店铺销售额榜单"
+  @e599 link "#男装穿搭"
+  @e600 link "#抖音男装"
+  @e601 link "#男装直播"
+  @e602 link "#男装批发"
+  @e603 link "#宝藏店铺"
+  @e604 link "#电商运营"
+  @e605 link "#达人直播"
+  @e606 link "#潮牌男装"
+  @e607 link "#秋冬男装"
+  @e608 link "#休闲男装"
+  StaticText "10月抖音男装店铺销售额榜单 数据来源：抖系 销售时间：2025年10月1日-10月31日"
+  @e609 button "猜你想搜 龙牙衣服属于什么档次" [ctx: 10月抖音男装店铺销售额榜单 10月抖音男装店铺销售额榜单 数据来源：抖系 销售时间：2025年10月1日-10月31日 猜你想搜 龙牙衣服属于什么档次 2025-11-27]
+  StaticText "2025-11-27"
+  @e610 button "more" [ctx: 2025-11-27]
+  StaticText "共 17 条评论"
+  @e611 link "User hover guide" [ctx: 拉夫劳伦也成大众品牌了吗 2025-11-29 山东 2 3]
+  group
+    @e612 link "加加勇"
+    @e613 button "more"
+  StaticText "拉夫劳伦也成大众品牌了吗"
+  StaticText "2025-11-29"
+  StaticText "山东"
+  group
+    @e614 button "2"
+    @e615 button "3" [ctx: 2]
+  @e616 link "User hover guide" [ctx: 拉夫劳伦本来就是大众品牌啊，几十年前老辈们就穿这玩意 和鳄鱼一个玩意，又不是紫标产品 2025-12-01 山东 3 回复]
+  group
+    @e617 link "用户已注销"
+    @e618 button "more"
+  StaticText "拉夫劳伦本来就是大众品牌啊，几十年前老辈们就穿这玩意 和鳄鱼一个玩意，又不是紫标产品"
+  StaticText "2025-12-01"
+  StaticText "山东"
+  group
+    @e619 button "3"
+    @e620 button "回复" [ctx: 3]
+  @e621 button "展开 2 条回复"
+  @e622 link
+  group
+    @e623 link "希望顺利XXX"
+    @e624 button "more"
+  StaticText "龙牙这么高的吗？"
+  StaticText "2025-12-01"
+  StaticText "河南"
+  group
+    @e625 button "3"
+    @e626 button "2" [ctx: 3]
+  @e627 link "User hover guide" [ctx: 龙牙的都是精品 2025-12-07 广东 3 回复]
+  group
+    @e628 link "ssyybeda"
+    @e629 button "more"
+  StaticText "龙牙的都是精品"
+  StaticText "2025-12-07"
+  StaticText "广东"
+  group
+    @e630 button "3"
+    @e631 button "回复" [ctx: 3]
+  @e632 button "展开 1 条回复" [ctx: 龙牙的都是精品 2025-12-07 广东 3 回复 展开 1 条回复]
+  @e633 link
+  group
+    @e634 link "单纯@小Y"
+    @e635 button "more"
+  StaticText "霞湖世家这么厉害吗？"
+  StaticText "2025-11-27"
+  StaticText "浙江"
+  group
+    @e636 button "赞"
+    @e637 button "2" [ctx: 赞]
+  @e638 link "User hover guide" [ctx: 客单高 2025-11-29 新疆 赞 回复]
+  group
+    @e639 link "Care"
+    @e640 button "more"
+  StaticText "客单高"
+  StaticText "2025-11-29"
+  StaticText "新疆"
+  group
+    @e641 button "赞"
+    @e642 button "回复" [ctx: 赞]
+  @e643 button "展开 1 条回复" [ctx: 客单高 2025-11-29 新疆 赞 回复 展开 1 条回复]
+  @e644 link
+  group
+    @e645 link "捌月"
+    @e646 button "more"
+  StaticText "这个准吗？拇指白小T一件贴身体恤好几百。怕不是引流贴？"
+  StaticText "2025-12-01"
+  StaticText "山东"
+  group
+    @e647 button "1"
+    @e648 button "2" [ctx: 1]
+  @e649 link "User hover guide" [ctx: 回复 捌月 : 一个都没买过 2025-12-10 浙江 赞 回复]
+  group
+    @e650 link "叽哩咕噜"
+    @e651 button "more"
+  StaticText "回复"
+  StaticText "捌月"
+  StaticText ":"
+  StaticText "一个都没买过"
+  StaticText "2025-12-10"
+  StaticText "浙江"
+  group
+    @e652 button "赞"
+    @e653 button "回复" [ctx: 赞]
+  @e654 button "展开 1 条回复" [ctx: : 回复 捌月 一个都没买过 2025-12-10 浙江 赞 回复 展开 1 条回复]
+  @e655 link
+  group
+    @e656 link "这个："
+    @e657 button "more"
+  StaticText "都是吐掉掉渣的"
+  StaticText "2025-11-27"
+  StaticText "浙江"
+  group
+    @e658 button "3"
+    @e659 button "回复" [ctx: 3]
+  @e660 link
+  group
+    @e661 link "哈哈"
+    @e662 button "more"
+  StaticText "绝大多数都没听过的店铺名字"
+  StaticText "2025-11-27"
+  StaticText "北京"
+  group
+    @e663 button "赞"
+    @e664 button "回复" [ctx: 赞]
+  @e665 link
+  group
+    @e666 link "k."
+    @e667 button "more"
+  StaticText "霞湖世家就是一坨 广告打的满天飞"
+  StaticText "2025-12-01"
+  StaticText "湖北"
+  group
+    @e668 button "3"
+    @e669 button "回复" [ctx: 3]
+  @e670 link
+  group
+    @e671 link "一把小椅子"
+    @e672 button "more"
+  StaticText "霞胡那垃圾也能卖这么好"
+  StaticText "2025-12-06"
+  StaticText "福建"
+  group
+    @e673 button "1"
+    @e674 button "回复" [ctx: 1]
+  StaticText "- THE END -"
+  group
+    @e675 textbox "评论" [empty]
+    @e676 button "评论"
+  group
+    @e677 button "183"
+    @e678 button "87"
+    @e679 button "17"
+  @e680 button "share forward"
+  group
+    @e681 button "mention pc b"
+    @e682 button "emoji"
+  group
+    @e683 button "发送" [disabled]
+    @e684 button "取消"
+  @e685 button "1/4 10月抖音男装店铺销售额榜单 10月抖音男装店铺销售额榜单 数据来源：抖系 销售时间：2025年10月1日-10月31日 猜你想搜 龙牙衣服属于什么档次 2025-11-27 共 17 条评论 拉夫劳伦也成大众品牌了吗 2025-11-29 山东 2 3 拉夫劳伦本来就是大众品牌啊，几十年前老辈们就穿这玩意 和鳄鱼一个玩意，又不是紫标产品 2025-12-01 山东 3 回复 展开 2 条回复 龙牙这么高的吗？ 2025-12-01 河南 3 2 龙牙的都是精品 20"
+L2 page … occluded by L1 (~595 nodes, not actionable)
+@warning geometry incomplete: some page or frame content has no top-level coordinates.

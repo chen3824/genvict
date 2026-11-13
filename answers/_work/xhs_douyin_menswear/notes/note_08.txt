@@ -1,0 +1,222 @@
+@vom 1
+@view 1002x558
+@layers 2 focus=L1
+L1 mask cover=100%
+  group
+    @e478 button "item 0"
+    @e479 button "item 0"
+    @e480 button "item 0"
+  group
+    @e481 link
+    @e482 link "御风"
+  @e483 button "关注"
+  heading "我劝大家不要在抖音直播间里买衣服"
+    StaticText "我劝大家不要在抖音直播间里买衣服"
+  @e484 link "#服装直播"
+  @e485 link "#网购避雷"
+  StaticText "作为曾经的资深购物狂，瞎买的东西已经放满了一间房，最可恨的就是衣服，特别是抖音直播间那里买的，事后穿着不爽，还不能过去追加评论，经常商家直播间开了一阵以后，号就消掉了，产品质量根本没有办法看历史评价和源头追溯。 服装直播间看看款也就完事儿，还需要事后去比较有信誉的店铺里下单，而且千万不要买那些10元20元的，贪小便宜买到旧衣服，恶心坏了。"
+  @e486 button "猜你想搜 抖音直播的衣服为什么便宜" [ctx: 我劝大家不要在抖音直播间里买衣服 作为曾经的资深购物狂，瞎买的东西已经放满了一间房，最可恨的就是衣服，特别是抖音直播间那里买的，事后穿着不爽，还不能过去追加评论，经常商家直播间开了一阵以后，号就消掉了，产品质量根本没有办法看历史评价和源头追溯。 服装直播间看看款也就完事儿，还需要事后去比较有信誉的店铺里下单，而且千万不要买那些10元20元的，贪小便宜买到旧衣服，恶心坏了。 猜你想搜 抖音直播的衣服为什么便宜 2025-11-19]
+  StaticText "2025-11-19"
+  @e487 button "more" [ctx: 2025-11-19]
+  StaticText "共 76 条评论"
+  @e488 link "User hover guide" [ctx: 我买到二手的了 穿还是不穿 款式还好看的 04-08 江苏 5 7]
+  group
+    @e489 link "牛奶+蛋糕🍰"
+    @e490 button "more"
+  StaticText "我买到二手的了 穿还是不穿 款式还好看的"
+  StaticText "04-08"
+  StaticText "江苏"
+  group
+    @e491 button "5"
+    @e492 button "7" [ctx: 5]
+  @e493 link "User hover guide" [ctx: 回复 沈怡 : 要不是这次买了个有锈斑的 我还想不到这个问题 04-10 江苏 1 回复]
+  group
+    @e494 link "牛奶+蛋糕🍰"
+    @e495 button "more"
+  StaticText "回复"
+  StaticText "沈怡"
+  StaticText ":"
+  StaticText "要不是这次买了个有锈斑的 我还想不到这个问题"
+  StaticText "04-10"
+  StaticText "江苏"
+  group
+    @e496 button "1"
+    @e497 button "回复" [ctx: 1]
+  @e498 button "展开 6 条回复"
+  @e499 link
+  group
+    @e500 link "双儿"
+    @e501 button "more"
+  StaticText "买太便宜的肯定差的，还是那句话一分钱一分货，我买的裤子159质量还可以啊"
+  StaticText "01-24"
+  StaticText "广东"
+  group
+    @e502 button "28"
+    @e503 button "14" [ctx: 28]
+  @e504 link "User hover guide" [ctx: 真能一分价钱一分货就好了，有的299也给你做出59的品质 03-14 浙江 223 回复]
+  group
+    @e505 link "momo"
+    @e506 button "more"
+  StaticText "真能一分价钱一分货就好了，有的299也给你做出59的品质"
+  StaticText "03-14"
+  StaticText "浙江"
+  group
+    @e507 button "223"
+    @e508 button "回复" [ctx: 223]
+  @e509 button "展开 13 条回复"
+  @e510 link
+  group
+    @e511 link "用户已注销"
+    @e512 button "more"
+  StaticText "同意 买鞋子还行"
+  StaticText "03-03"
+  StaticText "湖南"
+  group
+    @e513 button "2"
+    @e514 button "回复" [ctx: 2]
+  @e515 link
+  group
+    @e516 link "十玖"
+    @e517 button "more"
+  StaticText "抖音好多衣服打开链接只有销量没有评论"
+  StaticText "，而且不同店铺都是相同衣服"
+  StaticText "03-18"
+  StaticText "四川"
+  group
+    @e518 button "128"
+    @e519 button "6" [ctx: 128]
+  @e520 link "User hover guide" [ctx: 对，卖多了他们会注销链接，重新上新链接 05-07 山东 48 回复]
+  group
+    @e521 link "广口瓶"
+    @e522 button "more"
+  StaticText "对，卖多了他们会注销链接，重新上新链接"
+  StaticText "05-07"
+  StaticText "山东"
+  group
+    @e523 button "48"
+    @e524 button "回复" [ctx: 48]
+  @e525 button "展开 5 条回复"
+  @e526 link
+  group
+    @e527 link "流光伙食"
+    @e528 button "more"
+  StaticText "我五年前买的一件外套99现在还在穿，比我买的大牌摸着还舒服，随便玩当时抖音直播刚起步，现在感觉质量不行了"
+  StaticText "03-14"
+  StaticText "重庆"
+  group
+    @e529 button "5"
+    @e530 button "1" [ctx: 5]
+  @e531 link "User hover guide" [ctx: 确实，现在质量hao cha 03-14 江苏 5 回复]
+  group
+    @e532 link "是夏天啊🍃"
+    @e533 button "more"
+  StaticText "确实，现在质量hao cha"
+  StaticText "03-14"
+  StaticText "江苏"
+  group
+    @e534 button "5"
+    @e535 button "回复" [ctx: 5]
+  @e536 link
+  group
+    @e537 link "喝不喝酸奶"
+    @e538 button "more"
+  StaticText "彻底疯狂"
+  img
+  img
+  StaticText "03-21"
+  StaticText "河北"
+  group
+    @e539 button "17"
+    @e540 button "10" [ctx: 17]
+  @e541 link "User hover guide" [ctx: 作者 NONONO ，我曾经是以百件为单位采购的，你这点还要练 03-21 广西 41 回复]
+  group
+    @e542 link "御风" [ctx: 作者]
+    StaticText "作者"
+    @e543 button "作者"
+  StaticText "NONONO ，我曾经是以百件为单位采购的，你这点还要练"
+  StaticText "03-21"
+  StaticText "广西"
+  group
+    @e544 button "41"
+    @e545 button "回复" [ctx: 41]
+  @e546 button "展开 9 条回复"
+  @e547 link
+  group
+    @e548 link "焱焱"
+    @e549 button "more"
+  StaticText "我买的599，189，那质量就跟50块钱的一样"
+  StaticText "01-26"
+  StaticText "广东"
+  group
+    @e550 button "31"
+    @e551 button "4" [ctx: 31]
+  @e552 link "User hover guide" [ctx: 作者 但是像品牌旗舰店的，比如鸭鸭，波司登之类的，确实产品质量要好很多很多。 02-04 广西 12 回复]
+  group
+    @e553 link "御风" [ctx: 作者]
+    StaticText "作者"
+    @e554 button "作者"
+  StaticText "但是像品牌旗舰店的，比如鸭鸭，波司登之类的，确实产品质量要好很多很多。"
+  StaticText "02-04"
+  StaticText "广西"
+  group
+    @e555 button "12"
+    @e556 button "回复" [ctx: 12]
+  @e557 button "展开 3 条回复"
+  @e558 link
+  group
+    @e559 link "笑笑"
+    @e560 button "more"
+  StaticText "怎样确定是不是二手的"
+  StaticText "08-18"
+  StaticText "陕西"
+  group
+    @e561 button "赞"
+    @e562 button "1" [ctx: 赞]
+  @e563 link "User hover guide" [ctx: 不要选孤品喽 二手的肯定不能批量 10-01 上海 赞 回复]
+  group
+    @e564 link "可爱的三炮"
+    @e565 button "more"
+  StaticText "不要选孤品喽"
+  StaticText "二手的肯定不能批量"
+  StaticText "10-01"
+  StaticText "上海"
+  group
+    @e566 button "赞"
+    @e567 button "回复" [ctx: 赞]
+  @e568 link
+  group
+    @e569 link "Stars"
+    @e570 button "more"
+  StaticText "因为是尾货跟二手混合卖的，扣号的那种，没码子的，不要买"
+  StaticText "07-03"
+  StaticText "四川"
+  group
+    @e571 button "4"
+    @e572 button "回复" [ctx: 4]
+  @e573 link
+  group
+    @e574 link "以为你是谁鸭"
+    @e575 button "more"
+  StaticText "全是滤镜，主播都是不到一米六的，拿到手一穿全都特别短"
+  StaticText "06-08"
+  StaticText "辽宁"
+  group
+    @e576 button "5"
+    @e577 button "回复" [ctx: 5]
+  group
+    @e578 textbox "评论" [empty]
+    @e579 button "评论"
+  group
+    @e580 button "350"
+    @e581 button "78"
+    @e582 button "76"
+  @e583 button "share forward"
+  group
+    @e584 button "mention pc b"
+    @e585 button "emoji"
+  group
+    @e586 button "发送" [disabled]
+    @e587 button "取消"
+  @e588 button "我劝大家不要在抖音直播间里买衣服 作为曾经的资深购物狂，瞎买的东西已经放满了一间房，最可恨的就是衣服，特别是抖音直播间那里买的，事后穿着不爽，还不能过去追加评论，经常商家直播间开了一阵以后，号就消掉了，产品质量根本没有办法看历史评价和源头追溯。 服装直播间看看款也就完事儿，还需要事后去比较有信誉的店铺里下单，而且千万不要买那些10元20元的，贪小便宜买到旧衣服，恶心坏了。 猜你想搜 抖音直播的衣服为什么便宜 2025-11-19 共 76 条评论 我买到二手的了 穿还是不穿"
+L2 page … occluded by L1 (~591 nodes, not actionable)
+@warning geometry incomplete: some page or frame content has no top-level coordinates.

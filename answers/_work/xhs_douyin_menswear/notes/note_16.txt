@@ -1,0 +1,56 @@
+@vom 1
+@view 1002x558
+@layers 2 focus=L1
+L1 mask cover=100%
+  group
+    @e1067 button "item 6"
+    @e1068 button "item 0"
+    @e1069 button "item 1"
+    @e1070 button "item 2"
+    @e1071 button "item 3"
+    @e1072 button "item 4"
+    @e1073 button "item 5"
+    @e1074 button "item 6"
+    @e1075 button "item 0"
+  StaticText "1/7"
+  @e1076 button "1/7"
+  group
+    @e1077 link
+    @e1078 link "毛子嘟嘟"
+  @e1079 button "关注"
+  heading "分享俩家常买的男装店铺"
+    StaticText "分享俩家常买的男装店铺"
+  @e1080 link "#男友穿搭"
+  @e1081 link "#理性种草理性拔草"
+  @e1082 link "#男装店铺"
+  @e1083 link "#穿搭推荐"
+  @e1084 link "#宝藏店铺分享"
+  @e1085 link "#衣服测评"
+  @e1086 link "#男生穿搭"
+  @e1087 link "#分享店铺"
+  @e1088 link "#男装"
+  @e1089 link "#网购"
+  StaticText "这些衣服都是去年累计起来买到的一些我觉得还不错的 我应该是这些店的老常客了～ 在新的一年买到好的衣服我仍旧会分享给大家滴！"
+  @e1090 button "猜你想搜 高性价比淘宝男装店铺推荐" [ctx: 分享俩家常买的男装店铺 这些衣服都是去年累计起来买到的一些我觉得还不错的 我应该是这些店的老常客了～ 在新的一年买到好的衣服我仍旧会分享给大家滴！ 猜你想搜 高性价比淘宝男装店铺推荐 02-06]
+  StaticText "02-06"
+  @e1091 button "more"
+  paragraph "这是一片荒地 点击评论"
+    @e1092 button "点击评论"
+    StaticText "这是一片荒地"
+  group
+    @e1093 textbox "评论" [empty]
+    @e1094 button "评论"
+  group
+    @e1095 button "85"
+    @e1096 button "40"
+    @e1097 button "评论"
+  @e1098 button "share forward"
+  group
+    @e1099 button "mention pc b"
+    @e1100 button "emoji"
+  group
+    @e1101 button "发送" [disabled]
+    @e1102 button "取消"
+  @e1103 button "1/7 分享俩家常买的男装店铺 这些衣服都是去年累计起来买到的一些我觉得还不错的 我应该是这些店的老常客了～ 在新的一年买到好的衣服我仍旧会分享给大家滴！ 猜你想搜 高性价比淘宝男装店铺推荐 02-06 这是一片荒地 点击评论 去首页，发现更多笔记 评论 85 40 评论"
+L2 page … occluded by L1 (~584 nodes, not actionable)
+@warning geometry incomplete: some page or frame content has no top-level coordinates.

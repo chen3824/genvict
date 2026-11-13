@@ -1,0 +1,223 @@
+@vom 1
+@view 1002x557
+@layers 2 focus=L1
+L1 mask cover=100%
+  group
+    @e770 button "item 1"
+    @e771 button "item 0"
+    @e772 button "item 1"
+    @e773 button "item 0"
+  StaticText "1/2"
+  @e774 button "1/2"
+  group
+    @e775 link
+    @e776 link "顺顺喵"
+  @e777 button "关注"
+  heading "gtal家抖和淘差价也太大了"
+    StaticText "gtal家抖和淘差价也太大了"
+  @e778 link "#不做大冤种"
+  @e779 link "#gtal"
+  @e780 link "#该省省该花花"
+  StaticText "p1淘，p2抖 一直都在抖上买，因为会刷到视频，看起来很帅直接就下单了，这次在抖店里一件毛衣黑灰两色缺货了，想去淘店看看还有货吗，没想到发现差价居然这么大"
+  StaticText "（但是他家衣服真的很好穿，版型好，质量也挺好的，尤其那个半袖给男朋友回购三件了）"
+  @e781 button "猜你想搜 gtal是什么牌子" [ctx: gtal家抖和淘差价也太大了 p1淘，p2抖 一直都在抖上买，因为会刷到视频，看起来很帅直接就下单了，这次在抖店里一件毛衣黑灰两色缺货了，想去淘店看看还有货吗，没想到发现差价居然这么大 （但是他家衣服真的很好穿，版型好，质量也挺好的，尤其那个半袖给男朋友回购三件了） 猜你想搜 gtal是什么牌子 编辑于 2025-09-16]
+  StaticText "编辑于 2025-09-16"
+  @e782 button "more" [ctx: 编辑于 2025-09-16]
+  StaticText "共 26 条评论"
+  @e783 link "User hover guide" [ctx: 2025-11-08 江西 2 4]
+  group
+    @e784 link "用户已注销"
+    @e785 button "more"
+  img
+  StaticText "2025-11-08"
+  StaticText "江西"
+  group
+    @e786 button "2"
+    @e787 button "4" [ctx: 2]
+  @e788 link "User hover guide" [ctx: 2025-11-08 江西 1 回复]
+  group
+    @e789 link "用户已注销"
+    @e790 button "more"
+  img
+  StaticText "2025-11-08"
+  StaticText "江西"
+  group
+    @e791 button "1"
+    @e792 button "回复" [ctx: 1]
+  @e793 button "展开 3 条回复"
+  @e794 link
+  group
+    @e795 link "鱼香肉丝"
+    @e796 button "more"
+  StaticText "淘金币外套还可以减十几"
+  StaticText "我之前一直在抖买后来才发现"
+  StaticText "2025-09-17"
+  StaticText "江苏"
+  group
+    @e797 button "2"
+    @e798 button "2"
+  @e799 link "User hover guide" [ctx: 请问他家裤子好穿吗 2025-10-04 山东 1 回复]
+  group
+    @e800 link "isRS"
+    @e801 button "more"
+  StaticText "请问他家裤子好穿吗"
+  StaticText "2025-10-04"
+  StaticText "山东"
+  group
+    @e802 button "1"
+    @e803 button "回复" [ctx: 1]
+  @e804 button "展开 1 条回复"
+  @e805 link
+  group
+    @e806 link "小咪大人"
+    @e807 button "more"
+  StaticText "哪个半袖呀"
+  StaticText "04-02"
+  StaticText "浙江"
+  group
+    @e808 button "赞"
+    @e809 button "3" [ctx: 赞]
+  @e810 link "User hover guide" [ctx: 作者 04-02 内蒙古 赞 回复]
+  group
+    @e811 link "顺顺喵" [ctx: 作者]
+    StaticText "作者"
+    @e812 button "作者"
+  img
+  StaticText "04-02"
+  StaticText "内蒙古"
+  group
+    @e813 button "赞"
+    @e814 button "回复" [ctx: 赞]
+  @e815 button "展开 2 条回复" [ctx: 作者 04-02 内蒙古 赞 回复 展开 2 条回复]
+  @e816 link
+  group
+    @e817 link "小香葱"
+    @e818 button "more"
+  StaticText "有没有类似店铺"
+  StaticText "想多挑款，他们家款有点少"
+  StaticText "2025-09-28"
+  StaticText "广西"
+  group
+    @e819 button "2"
+    @e820 button "3" [ctx: 2]
+  @e821 link "User hover guide" [ctx: 作者 没有啦姐妹 2025-09-28 内蒙古 赞 回复]
+  group
+    @e822 link "顺顺喵" [ctx: 作者]
+    StaticText "作者"
+    @e823 button "作者"
+  StaticText "没有啦姐妹"
+  StaticText "2025-09-28"
+  StaticText "内蒙古"
+  group
+    @e824 button "赞"
+    @e825 button "回复" [ctx: 赞]
+  @e826 button "展开 2 条回复" [ctx: 作者 没有啦姐妹 2025-09-28 内蒙古 赞 回复 展开 2 条回复]
+  @e827 link
+  group
+    @e828 link "小陈小陈"
+    @e829 button "more"
+  StaticText "这是官方店吗"
+  img
+  StaticText "05-29"
+  StaticText "山东"
+  group
+    @e830 button "1"
+    @e831 button "1"
+  @e832 link "User hover guide" [ctx: 作者 是的 05-29 内蒙古 赞 回复]
+  group
+    @e833 link "顺顺喵" [ctx: 作者]
+    StaticText "作者"
+    @e834 button "作者"
+  StaticText "是的"
+  StaticText "05-29"
+  StaticText "内蒙古"
+  group
+    @e835 button "赞"
+    @e836 button "回复" [ctx: 赞]
+  @e837 link
+  group
+    @e838 link "樱桃屁丸子🍒"
+    @e839 button "more"
+  StaticText "他家质量没有23年好了，还没找到和他类似店铺"
+  StaticText "02-01"
+  StaticText "吉林"
+  group
+    @e840 button "1"
+    @e841 button "1"
+  @e842 link "User hover guide" [ctx: 找到了吗 06-27 江苏 赞 回复]
+  group
+    @e843 link "intj"
+    @e844 button "more"
+  StaticText "找到了吗"
+  StaticText "06-27"
+  StaticText "江苏"
+  group
+    @e845 button "赞"
+    @e846 button "回复" [ctx: 赞]
+  @e847 link
+  group
+    @e848 link "瞌睡"
+    @e849 button "more"
+  StaticText "51到手的"
+  StaticText "2025-10-11"
+  StaticText "河南"
+  group
+    @e850 button "4"
+    @e851 button "1" [ctx: 4]
+  @e852 link "User hover guide" [ctx: I 2025-11-03 河南 赞 回复]
+  group
+    @e853 link "小灵子不追星"
+    @e854 button "more"
+  StaticText "I"
+  StaticText "2025-11-03"
+  StaticText "河南"
+  group
+    @e855 button "赞"
+    @e856 button "回复" [ctx: 赞]
+  @e857 link
+  group
+    @e858 link "ㅤ"
+    @e859 button "more"
+  StaticText "请问一下是推荐哪个半袖？"
+  StaticText "01-04"
+  StaticText "广东"
+  group
+    @e860 button "2"
+    @e861 button "回复" [ctx: 2]
+  @e862 link
+  group
+    @e863 link "deft"
+    @e864 button "more"
+  StaticText "因为淘金币可以抵扣"
+  StaticText "2025-12-30"
+  StaticText "新疆"
+  group
+    @e865 button "1"
+    @e866 button "回复" [ctx: 1]
+  @e867 link
+  group
+    @e868 link "岁月"
+    @e869 button "more"
+  StaticText "你好"
+  StaticText "2天前"
+  StaticText "江苏"
+  group
+    @e870 button "赞"
+    @e871 button "回复" [ctx: 赞]
+  group
+    @e872 textbox "评论" [empty]
+    @e873 button "评论"
+  group
+    @e874 button "163"
+    @e875 button "50"
+    @e876 button "26"
+  @e877 button "share forward"
+  group
+    @e878 button "mention pc b"
+    @e879 button "emoji"
+  group
+    @e880 button "发送" [disabled]
+    @e881 button "取消"
+  @e882 button "1/2 gtal家抖和淘差价也太大了 p1淘，p2抖 一直都在抖上买，因为会刷到视频，看起来很帅直接就下单了，这次在抖店里一件毛衣黑灰两色缺货了，想去淘店看看还有货吗，没想到发现差价居然这么大 （但是他家衣服真的很好穿，版型好，质量也挺好的，尤其那个半袖给男朋友回购三件了） 猜你想搜 gtal是什么牌子 编辑于 2025-09-16 共 26 条评论 2025-11-08 江西 2 4 2025-11-08 江西 1 回复 展开 3 条回复 淘金币外套还可以减十几 我之前一直"
+L2 page … occluded by L1 (~594 nodes, not actionable)
+@warning geometry incomplete: some page or frame content has no top-level coordinates.

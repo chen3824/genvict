@@ -1,0 +1,243 @@
+@vom 1
+@view 1002x554
+@layers 2 focus=L1
+L1 mask cover=100%
+  group
+    @e117 button "item 7"
+    @e118 button "item 0"
+    @e119 button "item 1"
+    @e120 button "item 2"
+    @e121 button "item 3"
+    @e122 button "item 4"
+    @e123 button "item 5"
+    @e124 button "item 6"
+    @e125 button "item 7"
+    @e126 button "item 0"
+  StaticText "1/8"
+  @e127 button "1/8"
+  group
+    @e128 link
+    @e129 link "小婉"
+  @e130 button "关注"
+  heading "原来还有这么多优衣库平替店铺"
+    StaticText "原来还有这么多优衣库平替店铺"
+  @e131 link "#优衣库"
+  @e132 link "#买衣服"
+  @e133 link "#平价衣服"
+  StaticText "总算给我刷到点好东西了 —————— 本人衣柜里都是纯色基础款 不喜欢任何logo 优衣库我经常买，但一季的款太少挑不了几件，刷到这个贴给我提供了好多选择，正好现在桃的双II有立－和卷，可以趁有活动多入几件，不知道具体质量版型怎么样？有买过的来说说吗"
+  @e134 button "猜你想搜 极优和优衣库的区别" [ctx: 原来还有这么多优衣库平替店铺 总算给我刷到点好东西了 —————— 本人衣柜里都是纯色基础款 不喜欢任何logo 优衣库我经常买，但一季的款太少挑不了几件，刷到这个贴给我提供了好多选择，正好现在桃的双II有立－和卷，可以趁有活动多入几件，不知道具体质量版型怎么样？有买过的来说说吗 猜你想搜 极优和优衣库的区别 7天前 重庆]
+  StaticText "7天前 重庆"
+  @e135 button "more" [ctx: 7天前 重庆]
+  StaticText "共 435 条评论"
+  @e136 link "User hover guide" [ctx: 快鱼个人感觉质量和版型都不错（参考身材：比较壮的平胸，如果女性身材曲线比较明显的话不确定会怎样），而且便宜 6天前 安徽 1 回复]
+  group
+    @e137 link "南七马叉虫"
+    @e138 button "more"
+  StaticText "快鱼个人感觉质量和版型都不错（参考身材：比较壮的平胸，如果女性身材曲线比较明显的话不确定会怎样），而且便宜"
+  StaticText "6天前"
+  StaticText "安徽"
+  group
+    @e139 button "1"
+    @e140 button "回复" [ctx: 1]
+  @e141 link
+  group
+    @e142 link "小贝"
+    @e143 button "more"
+  StaticText "最近发现muji有些也比优衣库便宜一些，希望可以帮到你。"
+  StaticText "6天前"
+  StaticText "广东"
+  group
+    @e144 button "37"
+    @e145 button "17" [ctx: 37]
+  @e146 link "User hover guide" [ctx: muji竟然还能比优衣库便宜吗 我印象里muji所有东西都偏贵诶 6天前 广东 246 回复]
+  group
+    @e147 link "旧时年月投入垃圾里"
+    @e148 button "more"
+  StaticText "muji竟然还能比优衣库便宜吗"
+  StaticText "我印象里muji所有东西都偏贵诶"
+  StaticText "6天前"
+  StaticText "广东"
+  group
+    @e149 button "246"
+    @e150 button "回复" [ctx: 246]
+  @e151 button "展开 16 条回复"
+  @e152 link
+  group
+    @e153 link "懒羊羊的青草蛋糕"
+    @e154 button "more"
+  StaticText "鹿岛啊"
+  StaticText "33分钟前"
+  StaticText "陕西"
+  group
+    @e155 button "赞"
+    @e156 button "回复" [ctx: 赞]
+  @e157 link
+  group
+    @e158 link "熹微话很多"
+    @e159 button "more"
+  StaticText "山东网店童装神中神，超有性价比"
+  StaticText "6天前"
+  StaticText "广东"
+  group
+    @e160 button "53"
+    @e161 button "21" [ctx: 53]
+  @e162 link "User hover guide" [ctx: 店名就叫这个吗 6天前 广西 7 回复]
+  group
+    @e163 link "龟苓膏不加炼乳"
+    @e164 button "more"
+  StaticText "店名就叫这个吗"
+  StaticText "6天前"
+  StaticText "广西"
+  group
+    @e165 button "7"
+    @e166 button "回复" [ctx: 7]
+  @e167 button "展开 20 条回复"
+  @e168 link
+  group
+    @e169 link "小🍊一定上岸"
+    @e170 button "more"
+  StaticText "优衣库的平替就是打五折的优衣库"
+  StaticText "6天前"
+  StaticText "江苏"
+  group
+    @e171 button "739"
+    @e172 button "13" [ctx: 739]
+  @e173 link "User hover guide" [ctx: 对啊，做得好的比优衣库贵，价格低的比优衣库差 6天前 广东 135 回复]
+  group
+    @e174 link "小红薯66DF67A0"
+    @e175 button "more"
+  StaticText "对啊，做得好的比优衣库贵，价格低的比优衣库差"
+  StaticText "6天前"
+  StaticText "广东"
+  group
+    @e176 button "135"
+    @e177 button "回复" [ctx: 135]
+  @e178 button "展开 12 条回复" [ctx: 对啊，做得好的比优衣库贵，价格低的比优衣库差 6天前 广东 135 回复 展开 12 条回复]
+  @e179 link
+  group
+    @e180 link "麦拉"
+    @e181 button "more"
+  StaticText "但是优衣库也不贵吧，最近还有券可以用给我买爽了"
+  img
+  img
+  StaticText "5天前"
+  StaticText "辽宁"
+  group
+    @e182 button "11"
+    @e183 button "13" [ctx: 11]
+  @e184 link "User hover guide" [ctx: 回复 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ : 我也想问 5天前 四川 1 回复]
+  group
+    @e185 link "续冬."
+    @e186 button "more"
+  StaticText "回复"
+  StaticText "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ"
+  StaticText ":"
+  StaticText "我也想问"
+  StaticText "5天前"
+  StaticText "四川"
+  group
+    @e187 button "1"
+    @e188 button "回复" [ctx: 1]
+  @e189 button "展开 12 条回复" [ctx: : 回复 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ 我也想问 5天前 四川 1 回复 展开 12 条回复]
+  @e190 link
+  group
+    @e191 link "嗯对。"
+    @e192 button "more"
+  StaticText "鹿岛啊 一件纯棉t只要19.9"
+  StaticText "6天前"
+  StaticText "江西"
+  group
+    @e193 button "40"
+    @e194 button "8" [ctx: 40]
+  @e195 link "User hover guide" [ctx: 我支持！我今天去店里看了 我的妈呀怎么那么厚实，后面去优衣库看了两眼就走了质量真不如鹿岛 6天前 湖南 8 回复]
+  group
+    @e196 link "哈喽小烊"
+    @e197 button "more"
+  StaticText "我支持！我今天去店里看了 我的妈呀怎么那么厚实，后面去优衣库看了两眼就走了质量真不如鹿岛"
+  StaticText "6天前"
+  StaticText "湖南"
+  group
+    @e198 button "8"
+    @e199 button "回复" [ctx: 8]
+  @e200 button "展开 7 条回复"
+  @e201 link
+  group
+    @e202 link "克斯维尔_K💭"
+    @e203 button "more"
+  StaticText "真维斯……算了吧"
+  StaticText "6天前"
+  StaticText "四川"
+  group
+    @e204 button "37"
+    @e205 button "4" [ctx: 37]
+  @e206 link "User hover guide" [ctx: 我们这边快鱼都倒闭了，而且我觉得款式很一般 6天前 四川 20 回复]
+  group
+    @e207 link "克斯维尔_K💭"
+    @e208 button "more"
+  StaticText "我们这边快鱼都倒闭了，而且我觉得款式很一般"
+  StaticText "6天前"
+  StaticText "四川"
+  group
+    @e209 button "20"
+    @e210 button "回复" [ctx: 20]
+  @e211 button "展开 3 条回复" [ctx: 我们这边快鱼都倒闭了，而且我觉得款式很一般 6天前 四川 20 回复 展开 3 条回复]
+  @e212 link
+  group
+    @e213 link "jord"
+    @e214 button "more"
+  StaticText "这牌子我已经买了30年了"
+  img
+  StaticText "3天前"
+  StaticText "上海"
+  group
+    @e215 button "赞"
+    @e216 button "4" [ctx: 赞]
+  @e217 link "User hover guide" [ctx: 这是班尼路吧？ 3天前 上海 赞 回复]
+  group
+    @e218 link "红烧胖大海"
+    @e219 button "more"
+  StaticText "这是班尼路吧？"
+  StaticText "3天前"
+  StaticText "上海"
+  group
+    @e220 button "赞"
+    @e221 button "回复" [ctx: 赞]
+  @e222 button "展开 3 条回复" [ctx: 这是班尼路吧？ 3天前 上海 赞 回复 展开 3 条回复]
+  @e223 link
+  group
+    @e224 link "可视性蓝"
+    @e225 button "more"
+  StaticText "棉的美学怎么混进来的"
+  StaticText "4天前"
+  StaticText "广东"
+  group
+    @e226 button "21"
+    @e227 button "10" [ctx: 21]
+  @e228 link "User hover guide" [ctx: 这种帖子很多软广 2天前 吉林 12 回复]
+  group
+    @e229 link "Hesperia"
+    @e230 button "more"
+  StaticText "这种帖子很多软广"
+  StaticText "2天前"
+  StaticText "吉林"
+  group
+    @e231 button "12"
+    @e232 button "回复" [ctx: 12]
+  @e233 button "展开 9 条回复"
+  group
+    @e234 textbox "评论" [empty]
+    @e235 button "评论"
+  group
+    @e236 button "1.1万"
+    @e237 button "9865"
+    @e238 button "435"
+  @e239 button "share forward"
+  group
+    @e240 button "mention pc b"
+    @e241 button "emoji"
+  group
+    @e242 button "发送" [disabled]
+    @e243 button "取消"
+  @e244 button "1/8 原来还有这么多优衣库平替店铺 总算给我刷到点好东西了 —————— 本人衣柜里都是纯色基础款 不喜欢任何logo 优衣库我经常买，但一季的款太少挑不了几件，刷到这个贴给我提供了好多选择，正好现在桃的双II有立－和卷，可以趁有活动多入几件，不知道具体质量版型怎么样？有买过的来说说吗 猜你想搜 极优和优衣库的区别 7天前 重庆 共 435 条评论 快鱼个人感觉质量和版型都不错（参考身材：比较壮的平胸，如果女性身材曲线比较明显的话不确定会怎样），而且便宜 6天前 安徽 1"
+L2 page … occluded by L1 (~597 nodes, not actionable)
+@warning geometry incomplete: some page or frame content has no top-level coordinates.

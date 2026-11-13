@@ -1,0 +1,103 @@
+@vom 1
+@view 1002x553
+@layers 2 focus=L1
+L1 mask cover=100%
+  group
+    @e883 button "item 5"
+    @e884 button "item 0"
+    @e885 button "item 1"
+    @e886 button "item 2"
+    @e887 button "item 3"
+    @e888 button "item 4"
+    @e889 button "item 5"
+    @e890 button "item 0"
+  StaticText "1/6"
+  @e891 button "1/6"
+  group
+    @e892 link
+    @e893 link "服装周数居"
+  @e894 button "关注"
+  heading "5月抖系男装店铺销售额榜单前100"
+    StaticText "5月抖系男装店铺销售额榜单前100"
+  @e895 link "#男装穿搭"
+  @e896 link "#抖音男装"
+  @e897 link "#男装直播"
+  @e898 link "#男装批发"
+  @e899 link "#宝藏店铺"
+  @e900 link "#电商运营"
+  @e901 link "#达人直播"
+  @e902 link "#潮牌男装"
+  @e903 link "#春夏男装"
+  @e904 link "#休闲男装"
+  StaticText "5月抖系男装店铺销售额榜单前100 数据来源：抖系男装店铺 调研时间：2026年5月1日-31日"
+  @e905 button "猜你想搜 抖系男装店铺销售额排名" [ctx: 5月抖系男装店铺销售额榜单前100 5月抖系男装店铺销售额榜单前100 数据来源：抖系男装店铺 调研时间：2026年5月1日-31日 猜你想搜 抖系男装店铺销售额排名 06-12]
+  StaticText "06-12"
+  @e906 button "more" [ctx: 06-12]
+  StaticText "共 5 条评论"
+  @e907 link "User hover guide" [ctx: 除去退换货后的吗？ 07-18 广东 赞 回复]
+  group
+    @e908 link "SollFil"
+    @e909 button "more"
+  StaticText "除去退换货后的吗？"
+  StaticText "07-18"
+  StaticText "广东"
+  group
+    @e910 button "赞"
+    @e911 button "回复" [ctx: 赞]
+  @e912 link
+  group
+    @e913 link "定制圈的烽兄254907"
+    @e914 button "more"
+  StaticText "我朋友说杉杉很厉害，没有？"
+  StaticText "06-22"
+  StaticText "浙江"
+  group
+    @e915 button "1"
+    @e916 button "回复" [ctx: 1]
+  @e917 link
+  group
+    @e918 link "。。。"
+    @e919 button "more"
+  StaticText "FPA居然没上榜？"
+  StaticText "06-19"
+  StaticText "广东"
+  group
+    @e920 button "赞"
+    @e921 button "回复" [ctx: 赞]
+  @e922 link
+  group
+    @e923 link "keykey"
+    @e924 button "more"
+  StaticText "算是明白咱中国哥们穿搭为啥这么丑了"
+  StaticText "06-23"
+  StaticText "浙江"
+  group
+    @e925 button "4"
+    @e926 button "1" [ctx: 4]
+  @e927 link "User hover guide" [ctx: 06-24 浙江 赞 回复]
+  group
+    @e928 link "小红薯6AB7B22F"
+    @e929 button "more"
+  StaticText "06-24"
+  StaticText "浙江"
+  group
+    @e930 button "赞"
+    @e931 button "回复" [ctx: 赞]
+  StaticText "- THE END -"
+  group
+    @e932 textbox "评论" [empty]
+    @e933 button "评论"
+  group
+    @e934 button "83"
+    @e935 button "52"
+    @e936 button "5"
+  @e937 button "share forward"
+  group
+    @e938 button "mention pc b"
+    @e939 button "emoji"
+  group
+    @e940 button "发送" [disabled]
+    @e941 button "取消"
+  @e942 button "1/6 5月抖系男装店铺销售额榜单前100 5月抖系男装店铺销售额榜单前100 数据来源：抖系男装店铺 调研时间：2026年5月1日-31日 猜你想搜 抖系男装店铺销售额排名 06-12 共 5 条评论 除去退换货后的吗？ 07-18 广东 赞 回复 我朋友说杉杉很厉害，没有？ 06-22 浙江 1 回复 FPA居然没上榜？ 06-19 广东 赞 回复 算是明白咱中国哥们穿搭为啥这么丑了 06-23 浙江 4 1 06-24 浙江 赞 回复 - THE END - 去首页，发"
+L2 page … occluded by L1 (~595 nodes, not actionable)
+@warning geometry incomplete: some page or frame content has no top-level coordinates.

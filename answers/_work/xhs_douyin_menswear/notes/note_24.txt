@@ -1,0 +1,83 @@
+@vom 1
+@view 1002x553
+@layers 2 focus=L1
+L1 mask cover=100%
+  group
+    @e1104 button "item 4"
+    @e1105 button "item 0"
+    @e1106 button "item 1"
+    @e1107 button "item 2"
+    @e1108 button "item 3"
+    @e1109 button "item 4"
+    @e1110 button "item 0"
+  StaticText "1/5"
+  @e1111 button "1/5"
+  group
+    @e1112 link
+    @e1113 link "毛子嘟嘟"
+  @e1114 button "关注"
+  heading "10年网购选手爱逛男装店铺分享"
+    StaticText "10年网购选手爱逛男装店铺分享"
+  @e1115 link "#男人的衣橱"
+  @e1116 link "#男装店铺"
+  @e1117 link "#穿搭好物"
+  @e1118 link "#衣服分享"
+  @e1119 link "#男友穿搭"
+  @e1120 link "#男装"
+  @e1121 link "#小众男装品牌看我的"
+  @e1122 link "#宝藏店铺"
+  @e1123 link "#宝藏男装店"
+  @e1124 link "#品质男装"
+  @e1125 button "猜你想搜 淘宝男装店铺排行" [ctx: 10年网购选手爱逛男装店铺分享 猜你想搜 淘宝男装店铺排行 7天前 湖南]
+  StaticText "7天前 湖南"
+  @e1126 button "more" [ctx: 7天前 湖南]
+  StaticText "共 3 条评论"
+  @e1127 link "User hover guide" [ctx: 有没有厚点的外套 6天前 河南 赞 1]
+  group
+    @e1128 link "果仁大王驾到"
+    @e1129 button "more"
+  StaticText "有没有厚点的外套"
+  StaticText "6天前"
+  StaticText "河南"
+  group
+    @e1130 button "赞"
+    @e1131 button "1" [ctx: 赞]
+  @e1132 link "User hover guide" [ctx: 作者 发过～加绒的 6天前 湖南 赞 回复]
+  group
+    @e1133 link "毛子嘟嘟" [ctx: 作者]
+    StaticText "作者"
+    @e1134 button "作者"
+  StaticText "发过～加绒的"
+  StaticText "6天前"
+  StaticText "湖南"
+  group
+    @e1135 button "赞"
+    @e1136 button "回复" [ctx: 赞]
+  @e1137 link
+  group
+    @e1138 link "外婆菜"
+    @e1139 button "more"
+  StaticText "👍"
+  StaticText "7天前"
+  StaticText "云南"
+  group
+    @e1140 button "赞"
+    @e1141 button "回复" [ctx: 赞]
+  StaticText "- THE END -"
+  group
+    @e1142 textbox "评论" [empty]
+    @e1143 button "评论"
+  group
+    @e1144 button "22"
+    @e1145 button "16"
+    @e1146 button "3"
+  @e1147 button "share forward"
+  group
+    @e1148 button "mention pc b"
+    @e1149 button "emoji"
+  group
+    @e1150 button "发送" [disabled]
+    @e1151 button "取消"
+  @e1152 button "1/5 10年网购选手爱逛男装店铺分享 猜你想搜 淘宝男装店铺排行 7天前 湖南 共 3 条评论 有没有厚点的外套 6天前 河南 赞 1 作者 发过～加绒的 6天前 湖南 赞 回复 👍 7天前 云南 赞 回复 - THE END - 去首页，发现更多笔记 评论 22 16 3"
+L2 page … occluded by L1 (~593 nodes, not actionable)
+@warning geometry incomplete: some page or frame content has no top-level coordinates.

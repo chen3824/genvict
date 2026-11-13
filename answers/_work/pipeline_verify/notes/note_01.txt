@@ -1,0 +1,279 @@
+@vom 1
+@view 1002x558
+@layers 2 focus=L1
+L1 mask cover=100%
+  group
+    @e47 button "item 0"
+    @e48 button "item 0"
+    @e49 button "item 0"
+  group
+    @e50 link
+    @e51 link "小谷爱分享"
+  @e52 button "关注"
+  heading "分享一些进了就出不来的🎵直播间"
+    StaticText "分享一些进了就出不来的🎵直播间"
+  @e53 link "#直播间"
+  @e54 link "#直播电商"
+  @e55 link "#性价比超高"
+  @e56 link "#性价比之选"
+  @e57 link "#性价比"
+  @e58 link "#买买买"
+  @e59 link "#买买买日常"
+  @e60 link "#购物清单"
+  @e61 link "#无广告纯分享"
+  @e62 link "#抖音直播"
+  StaticText "1️⃣童颜美学馆 这家是去年年底清仓的时候入坑的，然后就接连买了十几二十件，根本停不下来。"
+  StaticText "因为每一件质量都超级好，正价（29-300）都绝对物超所值。清货的时候就更划算了。"
+  StaticText "主播是一个超级有气质的姐姐，衣服款式也都是比较偏气质款或者休闲款。姐妹们信我！！去看看他们家～"
+  StaticText "2️⃣景七服装店 这家的衣服质量和价格都会刷新你的认知，震惊于这样的价格居然能买到这样质量的衣服！"
+  StaticText "不过也不能抱太高的期待，毕竟人家也是要赚钱的。衣服很难抢，很上头，买过十来件没有退过！"
+  StaticText "这家有设置运费，为了防止仅退款的，正常买的话不影响。 3️⃣星七垣垣/星77的服装个体店 这家在抖音蛮火的，晚上直播基本都有2000人左右在线，衣服款式比较偏韩系。"
+  StaticText "不能退换是比较多人吐槽的点，我买过十来件，大概有一两件比较失望吧，不过价格也都不贵，就没有强行去申请退货了。据说退货会被拉黑，所以要谨慎下单，虽然这家也很难抢很上头。"
+  StaticText "4️⃣菲菲惊喜社3号 也是人很多的直播间，基本都在5000人以上。风格偏韩系休闲，买过几次T恤，都很舒服😌也挺好看～推荐！"
+  StaticText "5️⃣维阳女装/萱姐女装 款式风格比较杂的直播间，有时间蹲的话还是能蹲到便宜又好看的衣服。主播过款很快，也是不太好抢的，买过几次，质量也是可以的"
+  StaticText "6️⃣悦悦家女装 人超多的直播间，衣服款式偏宽松休闲。主播有点微胖，所以衣服款式都是比较显瘦又舒服的。质量与价格成正比，还是不错的～"
+  StaticText "7️⃣杨杨的衣 这是最近关注的，衣服款式跟星77比较类似，都是韩系档口货。主播选款的审美在线，直播节奏也挺好，买过裙子和小衫，质量都挺好，推荐！"
+  StaticText "有没有宝子跟我选衣服的偏好类似的呢？"
+  StaticText "快把你们常看常买的高性价比直播间或者店铺评论区告诉我吧～一起买买买！"
+  StaticText "【更新一下】现在不太刷抖音直播间了，也不咋在抖音买衣服了，上述有些店铺大家在评论区避雷了，下单之前注意看看哦"
+  @e63 button "猜你想搜 抖音直播衣服质量好的店铺" [ctx: 分享一些进了就出不来的🎵直播间 1️⃣童颜美学馆 这家是去年年底清仓的时候入坑的，然后就接连买了十几二十件，根本停不下来。 因为每一件质量都超级好，正价（29-300）都绝对物超所值。清货的时候就更划算了。 主播是一个超级有气质的姐姐，衣服款式也都是比较偏气质款或者休闲款。姐妹们信我！！去看看他们家～ 2️⃣景七服装店 这家的衣服质量和价格都会刷新你的认知，震惊于这样的价格居然能买到这样质量的衣服！ 不过也不能抱太高的期待，毕竟人家也是要赚钱的。衣服很难抢，很上头，买过十来]
+  StaticText "编辑于 2025-12-23"
+  @e64 button "more" [ctx: 编辑于 2025-12-23]
+  StaticText "共 156 条评论"
+  @e65 link "User hover guide" [ctx: 避雷星77家，质量太水了，客服态度还不好，衣服破了死活不承认，退货还说给拒收，就离谱，平台都同意了她在那还死不承认问题，无语 2025-07-09 湖北 92 24]
+  group
+    @e66 link "小红薯就是我"
+    @e67 button "more"
+  StaticText "避雷星77家，质量太水了，客服态度还不好，衣服破了死活不承认，退货还说给拒收，就离谱，平台都同意了她在那还死不承认问题，无语"
+  StaticText "2025-07-09"
+  StaticText "湖北"
+  group
+    @e68 button "92"
+    @e69 button "24" [ctx: 92]
+  @e70 link "User hover guide" [ctx: 作者 在她家退货应该是真的很难，看到很多姐妹吐槽了 我最近取关了 2025-07-09 湖南 14 回复]
+  group
+    @e71 link "小谷爱分享" [ctx: 作者]
+    StaticText "作者"
+    @e72 button "作者"
+  StaticText "在她家退货应该是真的很难，看到很多姐妹吐槽了"
+  StaticText "我最近取关了"
+  StaticText "2025-07-09"
+  StaticText "湖南"
+  group
+    @e73 button "14"
+    @e74 button "回复" [ctx: 14]
+  @e75 button "展开 23 条回复"
+  @e76 link
+  group
+    @e77 link "难赴."
+    @e78 button "more"
+  StaticText "三三Studio！！她们是新号开播 我前两天35.9抢了一个裙子 巨巨巨巨重工 我觉得这种刚开号的直播间不会过破烂货"
+  StaticText "2025-07-01"
+  StaticText "河北"
+  group
+    @e79 button "30"
+    @e80 button "6" [ctx: 30]
+  @e81 link "User hover guide" [ctx: 作者 种草！我去看看！ 2025-07-01 湖南 8 回复]
+  group
+    @e82 link "小谷爱分享" [ctx: 作者]
+    StaticText "作者"
+    @e83 button "作者"
+  StaticText "种草！我去看看！"
+  StaticText "2025-07-01"
+  StaticText "湖南"
+  group
+    @e84 button "8"
+    @e85 button "回复" [ctx: 8]
+  @e86 button "展开 5 条回复"
+  @e87 link
+  group
+    @e88 link "爱吃🌽的椰椰"
+    @e89 button "more"
+  StaticText "最爱杨杨"
+  StaticText "2025-06-23"
+  StaticText "广东"
+  group
+    @e90 button "3"
+    @e91 button "7" [ctx: 3]
+  @e92 link "User hover guide" [ctx: 作者 她家都是忠实粉丝 2025-06-23 湖南 10 回复]
+  group
+    @e93 link "小谷爱分享" [ctx: 作者]
+    StaticText "作者"
+    @e94 button "作者"
+  StaticText "她家都是忠实粉丝"
+  StaticText "2025-06-23"
+  StaticText "湖南"
+  group
+    @e95 button "10"
+    @e96 button "回复" [ctx: 10]
+  @e97 button "展开 6 条回复"
+  @e98 link
+  group
+    @e99 link "微 光"
+    @e100 button "more"
+  StaticText "你分享的 7 家我关注了 4 家"
+  StaticText "2025-06-11"
+  StaticText "广东"
+  group
+    @e101 button "6"
+    @e102 button "2" [ctx: 6]
+  @e103 link "User hover guide" [ctx: 作者 审美相似 2025-06-19 湖南 1 回复]
+  group
+    @e104 link "小谷爱分享" [ctx: 作者]
+    StaticText "作者"
+    @e105 button "作者"
+  StaticText "审美相似"
+  StaticText "2025-06-19"
+  StaticText "湖南"
+  group
+    @e106 button "1"
+    @e107 button "回复" [ctx: 1]
+  @e108 button "展开 1 条回复" [ctx: 作者 审美相似 2025-06-19 湖南 1 回复 展开 1 条回复]
+  @e109 link
+  group
+    @e110 link "还有这等好柿🍅"
+    @e111 button "more"
+  StaticText "我推荐 大橘女装，避雷星 77"
+  StaticText "06-24"
+  StaticText "浙江"
+  group
+    @e112 button "赞"
+    @e113 button "2" [ctx: 赞]
+  @e114 link "User hover guide" [ctx: 大橘女装不退换吗？ 09-16 四川 赞 回复]
+  group
+    @e115 link "梓兮早早123"
+    @e116 button "more"
+  StaticText "大橘女装不退换吗？"
+  StaticText "09-16"
+  StaticText "四川"
+  group
+    @e117 button "赞"
+    @e118 button "回复" [ctx: 赞]
+  @e119 button "展开 1 条回复" [ctx: 大橘女装不退换吗？ 09-16 四川 赞 回复 展开 1 条回复]
+  @e120 link
+  group
+    @e121 link "嗷嗷兜"
+    @e122 button "more"
+  StaticText "深圳南邮西西 （我回购比较多）徐梦桃（有点难打理） 林北鼻（款式好 但是部分质量一般）"
+  StaticText "3天前"
+  StaticText "广东"
+  group
+    @e123 button "赞"
+    @e124 button "1" [ctx: 赞]
+  @e125 link "User hover guide" [ctx: 作者 我去看看 3天前 湖南 赞 回复]
+  group
+    @e126 link "小谷爱分享" [ctx: 作者]
+    StaticText "作者"
+    @e127 button "作者"
+  StaticText "我去看看"
+  StaticText "3天前"
+  StaticText "湖南"
+  group
+    @e128 button "赞"
+    @e129 button "回复" [ctx: 赞]
+  @e130 link
+  group
+    @e131 link "想退休"
+    @e132 button "more"
+  StaticText "这家避雷，背心发错货重拍要求买家退货理由为不喜欢七天无理由，后面被告知一套搭的开衫没面料出不了货要求退款 客服拽上天了，我就说了一句早知道背心不要了 开衫居然没货 然后卖家就开始怼顾客"
+  img
+  StaticText "2025-07-28"
+  StaticText "广东"
+  group
+    @e133 button "1"
+    @e134 button "4" [ctx: 1]
+  @e135 link "User hover guide" [ctx: 作者 没有关注过这家，评论区的大家注意避雷哈 2025-07-29 湖南 赞 回复]
+  group
+    @e136 link "小谷爱分享" [ctx: 作者]
+    StaticText "作者"
+    @e137 button "作者"
+  StaticText "没有关注过这家，评论区的大家注意避雷哈"
+  StaticText "2025-07-29"
+  StaticText "湖南"
+  group
+    @e138 button "赞"
+    @e139 button "回复" [ctx: 赞]
+  @e140 button "展开 3 条回复" [ctx: 作者 没有关注过这家，评论区的大家注意避雷哈 2025-07-29 湖南 赞 回复 展开 3 条回复]
+  @e141 link
+  group
+    @e142 link "撞色研究所"
+    @e143 button "more"
+  StaticText "是淘宝直播间吗？"
+  StaticText "2025-10-25"
+  StaticText "湖南"
+  group
+    @e144 button "赞"
+    @e145 button "1" [ctx: 赞]
+  @e146 link "User hover guide" [ctx: 作者 抖🎵 2025-10-25 湖南 赞 回复]
+  group
+    @e147 link "小谷爱分享" [ctx: 作者]
+    StaticText "作者"
+    @e148 button "作者"
+  StaticText "抖🎵"
+  StaticText "2025-10-25"
+  StaticText "湖南"
+  group
+    @e149 button "赞"
+    @e150 button "回复" [ctx: 赞]
+  @e151 link
+  group
+    @e152 link "海鸥飞彩云飞"
+    @e153 button "more"
+  StaticText "这个吗？第一家"
+  img
+  StaticText "2025-11-05"
+  StaticText "四川"
+  group
+    @e154 button "2"
+    @e155 button "2"
+  @e156 link "User hover guide" [ctx: 作者 是的 2025-11-05 云南 1 回复]
+  group
+    @e157 link "小谷爱分享" [ctx: 作者]
+    StaticText "作者"
+    @e158 button "作者"
+  StaticText "是的"
+  StaticText "2025-11-05"
+  StaticText "云南"
+  group
+    @e159 button "1"
+    @e160 button "回复" [ctx: 1]
+  @e161 button "展开 1 条回复" [ctx: 作者 是的 2025-11-05 云南 1 回复 展开 1 条回复]
+  @e162 link
+  group
+    @e163 link "暖暖"
+    @e164 button "more"
+  StaticText "菲菲惊喜社是哪个店铺，没找到呀"
+  StaticText "2025-07-24"
+  StaticText "河北"
+  group
+    @e165 button "1"
+    @e166 button "4" [ctx: 1]
+  @e167 link "User hover guide" [ctx: 作者 直接搜索第一个就是啊，他们粉丝量蛮多的 2025-07-24 湖南 赞 回复]
+  group
+    @e168 link "小谷爱分享" [ctx: 作者]
+    StaticText "作者"
+    @e169 button "作者"
+  StaticText "直接搜索第一个就是啊，他们粉丝量蛮多的"
+  StaticText "2025-07-24"
+  StaticText "湖南"
+  group
+    @e170 button "赞"
+    @e171 button "回复" [ctx: 赞]
+  @e172 button "展开 3 条回复" [ctx: 作者 直接搜索第一个就是啊，他们粉丝量蛮多的 2025-07-24 湖南 赞 回复 展开 3 条回复]
+  group
+    @e173 textbox "评论" [empty]
+    @e174 button "评论"
+  group
+    @e175 button "2867"
+    @e176 button "1884"
+    @e177 button "156"
+  @e178 button "share forward"
+  group
+    @e179 button "mention pc b"
+    @e180 button "emoji"
+  group
+    @e181 button "发送" [disabled]
+    @e182 button "取消"
+  @e183 button "分享一些进了就出不来的🎵直播间 1️⃣童颜美学馆 这家是去年年底清仓的时候入坑的，然后就接连买了十几二十件，根本停不下来。 因为每一件质量都超级好，正价（29-300）都绝对物超所值。清货的时候就更划算了。 主播是一个超级有气质的姐姐，衣服款式也都是比较偏气质款或者休闲款。姐妹们信我！！去看看他们家～ 2️⃣景七服装店 这家的衣服质量和价格都会刷新你的认知，震惊于这样的价格居然能买到这样质量的衣服！ 不过也不能抱太高的期待，毕竟人家也是要赚钱的。衣服很难抢，很上头，买过十来"
+L2 page … occluded by L1 (~592 nodes, not actionable)
+@warning geometry incomplete: some page or frame content has no top-level coordinates.
